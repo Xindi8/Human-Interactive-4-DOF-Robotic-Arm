@@ -110,6 +110,6 @@ The closed-loop design effectively compensates for mechanical inaccuracies, vali
 
 ## 📎 Full Report
 For complete implementation details and experimental data, see:  
-`Final Project Report: Human Interactive 4-DOF Robotic Arm using Dual-Camera Visual Servoing` :contentReference[oaicite:1]{index=1}
+`Final Project Report: Human Interactive 4-DOF Robotic Arm using Dual-Camera Visual Servoing`
 
 
